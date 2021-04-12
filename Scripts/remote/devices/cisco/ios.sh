@@ -1,7 +1,4 @@
 #!/bin/sh
-
-configure terminal
-
 # Routing Commands:
 ./Routing/$COMMAND
 
